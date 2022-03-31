@@ -52,4 +52,4 @@ text="Now, do you remember MATRIX?"
 echo
 
 sleep 1
-source <(curl -s https://raw.githubusercontent.com/fe950/test_script/main/matrix.sh)
+source <(curl -s https://raw.githubusercontent.com/fe950/test_script/main/matrix)
