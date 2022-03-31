@@ -2,7 +2,7 @@
 clear
 sleep 1
 
-    text="Hello my name is script2. I was started from an url at github"
+    text="Hello my name is script2. I was started from an url at github."
 
     for i in $(seq 0 $(expr length "${text}")) ; do
         echo -n "${text:$i:1}"
