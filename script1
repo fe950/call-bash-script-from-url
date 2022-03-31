@@ -1,6 +1,6 @@
 #!/bin/bash
 echo " Hi! This is script 1, I am trying to run script 2 from an url"
 sleep 1
-source <(curl -s https://raw.githubusercontent.com/fe950/test_script/main/script2)
+source <(curl -s https://raw.githubusercontent.com/fe950/call-bash-script-from-url/main/script2)
 
 
