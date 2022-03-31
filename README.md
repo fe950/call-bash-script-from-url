@@ -2,4 +2,4 @@
 
 
 Download and run example with oneliner
-`wget ....script1 && chmod +x script1 && ./script1`
+`wget https://raw.githubusercontent.com/fe950/call-bash-script-from-url/main/script1 && chmod +x script1 && ./script1`
