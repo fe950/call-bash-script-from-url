@@ -1,7 +1,6 @@
 #!/bin/bash
 
-## Matrix in bash, no screensaver, this is the real deal.
-
+## Matrix in bash
 
 echo -e "\033[2J\033[?25l"; R=`tput lines` C=`tput cols`;: $[R--] ; while true 
 do ( e=echo\ -e s=sleep j=$[RANDOM%C] d=$[RANDOM%R];for i in `eval $e {1..$R}`;
