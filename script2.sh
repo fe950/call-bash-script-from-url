@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Hello"
-echo " I`m script2!"
+echo ""
+echo "Hello , I`m script2!"
+echo ""
